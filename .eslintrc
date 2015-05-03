@@ -1,0 +1,16 @@
+{
+	"rules": {
+		"quotes": "single",
+    "no-use-before-define": 0,
+    "no-alert": 0,
+    "global-strict": 0,
+    "no-console": 0,
+    "no-trailing-spaces": 0
+	},
+	"env": {
+		"browser": true
+	},
+  "globals": {
+    "chrome"
+  }
+}

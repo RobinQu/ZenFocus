@@ -1,0 +1,28 @@
+{
+  "name": "ZenFocus",
+  "version": "1.0.0",
+  "homepage": "https://github.com/RobinQu/ZenFocus",
+  "authors": [
+    "RobinQu <robinqu@gmail.com>"
+  ],
+  "description": "An chrome extension to organize tabs",
+  "main": "manifest.json",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "chrome",
+    "extension"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluebird": "~2.9.25"
+  }
+}
